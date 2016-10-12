@@ -8,6 +8,6 @@ RSS Aggregator app, similar to Google Reader. Two main components:
 
 HTTP routes and Verbs
 
-|Route 		| Verb | Description       | Variables |
-|------		|------|------------      -|----------------|
-/user/enroll 	| 
+| Route | Verb | Description | Variables |
+| ------ | ------ | ------------- | ---------------- |
+| /user/enroll 	| 
