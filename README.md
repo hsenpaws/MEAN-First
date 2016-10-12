@@ -1,9 +1,17 @@
 # MEAN Stack Application
+NOTE:  After multiple re-tries i belive it is waste of my time to learn in detail mark down language, so 
+
+Sequence Diagrams using https://creately.com
 
 RSS Aggregator app, similar to Google Reader. Two main components:
 
  i) The REST API
  ii) Feed Grabber (similar to Google Reader)
+
+
+#Login Flow
+Using STORMPATH for authentication. 
+Will give OKTA a try as well, as i interviewed with them once and should give it a try atleast :)
 
 
 HTTP routes and Verbs
