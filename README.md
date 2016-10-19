@@ -1,7 +1,6 @@
 # MEAN Stack Application
-NOTE:  After multiple re-tries i belive it is waste of my time to learn in detail mark down language, so 
 
-Sequence Diagrams using https://creately.com
+Sequence Diagrams using https://creately.com,
 
 RSS Aggregator app, similar to Google Reader. Two main components:
 
@@ -29,3 +28,7 @@ HTTP routes and Verbs
 | |  | |
 | |  | |
 | |  | |  
+
+
+
+Login Logic
